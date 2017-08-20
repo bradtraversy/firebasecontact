@@ -1,11 +1,11 @@
-// Initialize Firebase
+// Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-  apiKey: "AIzaSyCIm8gDGoVacLoqagK5rFcFKKr8DDDfh2Q",
-  authDomain: "contactform-6a0b0.firebaseapp.com",
-  databaseURL: "https://contactform-6a0b0.firebaseio.com",
-  projectId: "contactform-6a0b0",
-  storageBucket: "contactform-6a0b0.appspot.com",
-  messagingSenderId: "566981475490"
+  apiKey: "xxxxx",
+  authDomain: "xxxxx",
+  databaseURL: "xxxxx",
+  projectId: "xxxxx",
+  storageBucket: "xxxxx",
+  messagingSenderId: "xxxxx"
 };
 firebase.initializeApp(config);
 
